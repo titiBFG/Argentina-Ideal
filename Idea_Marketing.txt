@@ -1,0 +1,30 @@
+Hipótesis:
+
+Se acerca el invierno y desde la gerencia de "Argentina Ideal" están buscando nuevas estrategias de mercado para maximizar la venta de sus productos. Desde el departamento de Marketing proponen la hipótesis de que existe cierta correlación entre la temporada y la venta de productos.
+
+-> Se sugiere que en los meses de invierno, los productos relacionados con bebidas calientes y productos de consumo en interiores tienen mayor demanda.
+
+-> Además se sugiere que según la región, la cantidad de ventas de ciertos productos relacionados con los ya mencionados pueden variar
+
+Preguntas Relacionadas:
+
+1- ¿Cuál es el volumen de venta de productos específicos durante el invierno?
+
+2- Durante el invierno, ¿Cuál es el producto que tiene mayor volumen de venta por provincia?
+
+3- Para los productos de mayor volumen de venta, ¿en que tipo de negocio se suelen vender más?
+
+4- Para los productos de mayor volumen de venta, ¿difiere mucho el volumen en otras estaciones respecto del invierno?
+
+Plan de acción:
+
+-> Utilizar la información almacenada en el datawarehouse de "Argentina Ideal" y generar un datamart con la información que resulte relevante para el departamento de Marketing
+
+-> Realizar el análisis pertinente para lograr responder las preguntas planteadas, para este caso usando tableros y extrayendo información valiosa de los mismos
+
+-> Con todo el análisis realizado proponer descuentos/ofertas de los productos con mayor volumen de ventas, idealmente estas ofertas vendrían acompañadas con la localidad, por ejemplo: para Buenos Aires ofrecer un descuento en el producto "Café" de un X%
+
+-> Durante la ideación de la oferta, estipular el porcentaje de descuento que logra maximizar de mejor forma el volumen de ventas y justificar su elección
+
+
+
