@@ -26,3 +26,5 @@ Desde la gerencia de "Argentina ideal" están buscando estrategias de mercado pa
 * Identificar patrones de ventas bajas y proponer estrategias para incrementar las ventas de estos productos, tales como promociones especiales, cambios en el packaging, campañas de marketing dirigidas, o la inclusión de estos productos en combos o paquetes atractivos.
 
 * Desarrollar y testar campañas de marketing específicas cada trimestre para los productos identificados con menores ventas, ajustando la estrategia según la región y características demográficas.
+
+![20220531_115028 (1)](https://github.com/titiBFG/Argentina-Ideal/assets/124835858/06093a05-93e0-46cd-8d79-5382f2f07d6d)
