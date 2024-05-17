@@ -29,4 +29,4 @@ Desde la gerencia de "Argentina ideal" están buscando estrategias de mercado pa
 
 ## Esquema del Modelo
 
-![ModeloRelacional](https://github.com/titiBFG/Argentina-Ideal/assets/124835858/633b3fec-ed11-4b24-bfa7-59dbd5758a98)
+![ModeloRelacional](https://github.com/titiBFG/Argentina-Ideal/assets/124835858/660abbdf-e108-4225-a8ea-f080143788a0)
