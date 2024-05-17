@@ -27,4 +27,6 @@ Desde la gerencia de "Argentina ideal" están buscando estrategias de mercado pa
 
 * Desarrollar y testar campañas de marketing específicas cada trimestre para los productos identificados con menores ventas, ajustando la estrategia según la región y características demográficas.
 
+##Esquema del Modelo
+
 ![ModeloRelacional](https://github.com/titiBFG/Argentina-Ideal/assets/124835858/633b3fec-ed11-4b24-bfa7-59dbd5758a98)
